@@ -1,0 +1,19 @@
+html{
+    font-size: 22px;
+}
+body{
+    background-color: black;
+    color:azure;
+}
+
+a {
+    color:aqua;
+}
+
+a:visited {
+    color:magenta;
+}
+
+a:hover , a:active {
+    color:aliceblue;
+}
